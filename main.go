@@ -16,6 +16,7 @@ import (
 )
 
 func main() {
+	//日本語エラー
 	errorwords.Jerror()
 	arglen := len(os.Args)
 	if arglen == 1 {
