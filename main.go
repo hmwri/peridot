@@ -18,6 +18,7 @@ import (
 func main() {
 	//日本語エラー
 	errorwords.Jerror()
+	//引数
 	arglen := len(os.Args)
 	if arglen == 1 {
 		repl.Open()
