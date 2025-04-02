@@ -1,11 +1,11 @@
 package parser
 
 import (
-	"eduC/ast"
-	"eduC/errorwords"
-	"eduC/lexer"
-	"eduC/token"
 	"fmt"
+	"github.com/hmwri/peridot/ast"
+	"github.com/hmwri/peridot/errorwords"
+	"github.com/hmwri/peridot/lexer"
+	"github.com/hmwri/peridot/token"
 	"strconv"
 	"strings"
 )

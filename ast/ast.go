@@ -2,7 +2,7 @@ package ast
 
 import (
 	"bytes"
-	"eduC/token"
+	"github.com/hmwri/peridot/token"
 	"strings"
 )
 

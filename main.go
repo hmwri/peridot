@@ -1,15 +1,15 @@
 package main
 
 import (
-	"eduC/errorwords"
-	"eduC/eval"
-	"eduC/info"
-	"eduC/lexer"
-	"eduC/log"
-	"eduC/object"
-	"eduC/parser"
-	"eduC/repl"
 	"fmt"
+	"github.com/hmwri/peridot/errorwords"
+	"github.com/hmwri/peridot/eval"
+	"github.com/hmwri/peridot/info"
+	"github.com/hmwri/peridot/lexer"
+	"github.com/hmwri/peridot/log"
+	"github.com/hmwri/peridot/object"
+	"github.com/hmwri/peridot/parser"
+	"github.com/hmwri/peridot/repl"
 	"io/ioutil"
 	"os"
 	"path/filepath"

@@ -1,11 +1,11 @@
 package eval
 
 import (
-	"eduC/ast"
-	"eduC/errorwords"
-	"eduC/log"
-	"eduC/object"
 	"fmt"
+	"github.com/hmwri/peridot/ast"
+	"github.com/hmwri/peridot/errorwords"
+	"github.com/hmwri/peridot/log"
+	"github.com/hmwri/peridot/object"
 	"strconv"
 	"unicode/utf8"
 

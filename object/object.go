@@ -2,8 +2,8 @@ package object
 
 import (
 	"bytes"
-	"eduC/ast"
 	"fmt"
+	"github.com/hmwri/peridot/ast"
 	"strconv"
 	"strings"
 )

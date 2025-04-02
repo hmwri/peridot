@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"eduC/token"
+	"github.com/hmwri/peridot/token"
 )
 
 //Lexer struct

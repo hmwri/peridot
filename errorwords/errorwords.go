@@ -1,9 +1,9 @@
 package errorwords
 
 import (
-	"eduC/log"
-	"eduC/object"
 	"fmt"
+	"github.com/hmwri/peridot/log"
+	"github.com/hmwri/peridot/object"
 )
 
 //Errors struct

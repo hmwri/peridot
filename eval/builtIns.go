@@ -2,10 +2,10 @@ package eval
 
 import (
 	"bufio"
-	"eduC/errorwords"
-	"eduC/log"
-	"eduC/object"
 	"fmt"
+	"github.com/hmwri/peridot/errorwords"
+	"github.com/hmwri/peridot/log"
+	"github.com/hmwri/peridot/object"
 	"math"
 	"math/rand"
 	"os"
